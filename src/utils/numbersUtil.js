@@ -1,0 +1,1 @@
+// No additional utility functions needed in this JavaScript implementation
